@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6233a2f-36d8-4fa6-a987-615eddded8e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WZ3O2u6TDS2cV7B2LR82KID6UT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/tsdf-fusion-python-master" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="7scenes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tsdf-fusion-python-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/tsdf-fusion-python-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/tsdf-fusion-python-master/7scenes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="azure_kinect_mkv_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReconstructionSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sensors" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensors/azure_kinect_mkv_reader.py" />
+      <option name="PARAMETERS" value="--input $USER_HOME$/Videos/output.mkv --output data" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.azure_kinect_mkv_reader" />
+      <item itemvalue="Python.7scenes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.azure_kinect_mkv_reader" />
+        <item itemvalue="Python.7scenes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6233a2f-36d8-4fa6-a987-615eddded8e8" name="Default Changelist" comment="" />
+      <created>1579343254348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579343254348</updated>
+      <workItem from="1579343258172" duration="17271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579413530501">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="473" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579413530501" />
+    <state x="678" y="288" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579345485457">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="678" y="288" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579345485457" />
+    <state width="1807" height="232" key="GridCell.Tab.0.bottom" timestamp="1579420829312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="232" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829312" />
+    <state width="1807" height="232" key="GridCell.Tab.0.center" timestamp="1579420829312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="232" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829312" />
+    <state width="1807" height="232" key="GridCell.Tab.0.left" timestamp="1579420829311">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="232" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829311" />
+    <state width="1807" height="232" key="GridCell.Tab.0.right" timestamp="1579420829312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="232" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829312" />
+    <state width="1807" height="386" key="GridCell.Tab.1.bottom" timestamp="1579420829306">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="386" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829306" />
+    <state width="1807" height="386" key="GridCell.Tab.1.center" timestamp="1579420829306">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="386" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829306" />
+    <state width="1807" height="386" key="GridCell.Tab.1.left" timestamp="1579420829305">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="386" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829305" />
+    <state width="1807" height="386" key="GridCell.Tab.1.right" timestamp="1579420829306">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="386" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579420829306" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1579411955476">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579411955476" />
+    <state x="643" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1579343258820">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="643" y="359" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579343258820" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sensors/azure_kinect_mkv_reader.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ReconstructionSystem$7scenes.coverage" NAME="7scenes Coverage Results" MODIFIED="1579412984897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/tsdf-fusion-python-master" />
+    <SUITE FILE_PATH="coverage/ReconstructionSystem$officeroom.coverage" NAME="officeroom Coverage Results" MODIFIED="1579416096368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/tsdf-fusion-python-master" />
+    <SUITE FILE_PATH="coverage/ReconstructionSystem$azure_kinect_mkv_reader.coverage" NAME="azure_kinect_mkv_reader Coverage Results" MODIFIED="1579416080804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sensors" />
+  </component>
+</project>
