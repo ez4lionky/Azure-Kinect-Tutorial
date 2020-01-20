@@ -15,9 +15,8 @@ Power off = dev.close()
 #### The easier way
 
 1. Recording rgbd data by using Azure Kinect SDK -> .mkv file
-
 2. Using [API](http://www.open3d.org/docs/latest/tutorial/Basic/azure_kinect.html?highlight=azure%20kinect) (azure_kinect_mkv_reader.py) of python package Open3D to process mkv file.
-
 3. Using reconstruction [module](http://www.open3d.org/docs/latest/tutorial/ReconstructionSystem/capture_your_own_dataset.html#) in Open3D.
+Open3D scripts will generate fragments and scene folder under the path_dataset (which is specified in the config.json file)
 For reconstruction, [tsdf-fusion](https://github.com/andyzeng/tsdf-fusion-python) also can be used, but need to have related RT. The module in Open3D is recommended.
 

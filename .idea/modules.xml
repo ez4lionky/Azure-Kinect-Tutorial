@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Azure-Kinect-Tutorial.iml" filepath="$PROJECT_DIR$/.idea/Azure-Kinect-Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Visual SLAM/SOTAs/geomapnet-master/.idea/geomapnet-master.iml" filepath="$PROJECT_DIR$/../Visual SLAM/SOTAs/geomapnet-master/.idea/geomapnet-master.iml" />
     </modules>
   </component>
 </project>
