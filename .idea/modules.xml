@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Azure-Kinect-Tutorial.iml" filepath="$PROJECT_DIR$/.idea/Azure-Kinect-Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FastFCN/.idea/FastFCN.iml" filepath="$PROJECT_DIR$/../FastFCN/.idea/FastFCN.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/PyTorch-Encoding-master/.idea/PyTorch-Encoding-master.iml" filepath="$USER_HOME$/Downloads/PyTorch-Encoding-master/.idea/PyTorch-Encoding-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Visual SLAM/SOTAs/geomapnet-master/.idea/geomapnet-master.iml" filepath="$PROJECT_DIR$/../Visual SLAM/SOTAs/geomapnet-master/.idea/geomapnet-master.iml" />
     </modules>
   </component>

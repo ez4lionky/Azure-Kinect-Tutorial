@@ -5,6 +5,8 @@
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="geomapnet-master" />
+    <orderEntry type="module" module-name="FastFCN" />
+    <orderEntry type="module" module-name="PyTorch-Encoding-master" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="GOOGLE" />
